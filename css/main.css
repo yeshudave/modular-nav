@@ -42,3 +42,11 @@ nav li {
 h1 {
   text-align: center;
 }
+
+@media only screen and (min-width: 68em) {
+
+  h1 {
+    text-align: left;
+  }
+
+}
